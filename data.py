@@ -4,3 +4,7 @@
 print('hello')
 def my_func():
     print('hello')
+
+print('new method')
+def my_co():
+    print('data')

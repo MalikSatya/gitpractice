@@ -4,3 +4,8 @@
 print('hello')
 def my_func():
     print('hello')
+
+
+print('new fun')
+def my_data():
+    print('data')
